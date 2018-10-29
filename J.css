@@ -7,6 +7,7 @@
 body
 {
 	margin: 0;
+	background-color: silver;
 }
 header{
 	color: white;
@@ -69,7 +70,9 @@ font-family: 'Montserrat', sans-serif;
 	}
  	.ll{
 			font-family: 'Oswald', sans-serif;
-		background-color: silver;
+		background-color: yellow;
 			text-align: center;
-		color: green;
+		color: white;
+		text-decoration: none;
+		font-size: 40px;
 }
